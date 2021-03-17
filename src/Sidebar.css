@@ -54,3 +54,8 @@
   background-color: white;
   overflow: scroll;
 }
+
+.sidebar__chats::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
